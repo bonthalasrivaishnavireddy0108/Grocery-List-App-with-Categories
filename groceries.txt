@@ -1,0 +1,5 @@
+apple|Fruits|4|25.0
+apple|Fruits|4|20.0
+milk|Dairy|2|40.0
+chips|Snacks|3|15.0
+banana|Fruits|4|10.0
